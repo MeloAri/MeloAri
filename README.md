@@ -53,14 +53,14 @@ Me chamo Ariel Melo, tenho 19 anos e sou natural de São Paulo. Concluí o ensin
   <img
     align="left"
     alt="GitHub Stats"
-    width="500px"
+    width="400px"
     src="https://github-readme-stats.vercel.app/api?username=MeloAri&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img
     align="left"
     alt="Top Langs"
-    width="450px%"
+    width="350px%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeloAri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
   />
 </p>
