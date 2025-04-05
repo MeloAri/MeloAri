@@ -65,6 +65,11 @@ Me chamo Ariel Melo, tenho 19 anos e sou natural de São Paulo. Concluí o ensin
   />
 </p>
 
+![Snake animation](https://github.com/MeloAri/MeloAri/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 
